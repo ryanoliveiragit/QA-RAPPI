@@ -7,9 +7,6 @@ BDD — Behavior Driven Development (Desenvolvimento Guiado por Comportamento).
 Requisitos que devem ser levados em consideração para o cenário “FLUXO DE COMPRA”
 • Ao selecionar produto em uma loja, usuário deve ser capaz de deixar comentário sobre o
 pedido.
-• Usuário deve ser capaz de digitar a quantidade de um mesmo produto.
-• Usuário deve ser capaz de reduzir ou aumentar a quantidade de um mesmo produto nos
-botões de – e +.
 ```
 
 - **DADO QUE** QUE ACESSO A PÁGINA DE COMPRA
