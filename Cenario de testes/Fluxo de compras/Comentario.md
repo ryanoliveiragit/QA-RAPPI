@@ -19,7 +19,10 @@ pedido.
 
 
 ## Video
-![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995834860587470978/newcoment.gif)
+```bash
+Teste na prática.
+```
+https://www.youtube.com/watch?v=puPxuTsSh4s
 
 
 
