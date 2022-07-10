@@ -1,4 +1,3 @@
-
 ## CENÁRIOS DE TESTES: FLUXO DE COMPRAS
 ```bash
 BDD — Behavior Driven Development (Desenvolvimento Guiado por Comportamento).
@@ -18,11 +17,12 @@ pedido.
 ![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995834240526725280/unknown.png)
 
 
-## Video
+## Teste na prática.
+[Cenário de testes: comentário](https://www.youtube.com/watch?v=puPxuTsSh4s)
 ```bash
-Teste na prática.
-https://www.youtube.com/watch?v=puPxuTsSh4s
+Ao clicar no link acima, você será redirecionado ao vídeo de teste hospedado na plataforma do youtube.
 ```
+
 
 
 
