@@ -16,7 +16,7 @@ BOTÃO PARA LOGIN ATRAVÉS DO FACEBOOK
 BOTÃO PARA LOGIN ATRAVÉS DE OUTROS MÉTODOS
 ```
 ## Video
-![Screenshot]([https://www.youtube.com/watch?v=SQPDn_H7eHY](https://cdn.discordapp.com/attachments/993982266273452053/995827823765884998/8mb.video-Tjy-65JtJ8nQ.mp4))
+![Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995828507454226563/8mb.video-Tjy-65JtJ8nQ-_3_.gif)
 
 ## Screenshot
 ![App Screenshot](https://media.discordapp.net/attachments/993982266273452053/995813069152325753/unknown.png?width=1329&height=683)
