@@ -17,13 +17,11 @@ pedido.
 ## Screenshot
 ![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995834240526725280/unknown.png)
 
-```bash
-BOTÃO PARA SELEÇÃO DE PAÍS
-BOTÃO PARA LOGIN ATRAVÉS DO SISTEMA OPERACIONAL
-BOTÃO PARA LOGIN ATRAVÉS DO NÚMERO DE TELEFONE
-BOTÃO PARA LOGIN ATRAVÉS DO FACEBOOK
-BOTÃO PARA LOGIN ATRAVÉS DE OUTROS MÉTODOS
-```
+
+## Video
+![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995834860587470978/newcoment.gif)
+
+
 
 
 
