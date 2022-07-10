@@ -18,7 +18,7 @@ botões de – e +.
 - **ENTÃO** DEVO ENVIAR A MENSAGEM.
 
 ## Screenshot
-![App Screenshot]([https://media.dihttps://im.ge/i/comentario.uJy9CPscordapp.net/attachments/993982266273452053/995813069152325753/unknown.png?width=1329&height=683](https://cdn.discordapp.com/attachments/993982266273452053/995834240526725280/unknown.png))
+![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/995834240526725280/unknown.png)
 
 ```bash
 BOTÃO PARA SELEÇÃO DE PAÍS
