@@ -16,7 +16,7 @@ Usuário deve ser capaz de acessar os produtos em promoções
 
 
 ## Teste na prática.
-[Cenário de testes: modificar quantidades](https://www.youtube.com/shorts/SS4wpynrwBg?feature=share)
+[Cenário de testes: modificar promoções](https://www.youtube.com/shorts/SS4wpynrwBg?feature=share)
 ```bash
 Ao clicar no link acima, você será redirecionado ao vídeo de teste hospedado na plataforma do youtube.
 ```
