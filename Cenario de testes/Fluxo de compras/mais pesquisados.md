@@ -3,7 +3,7 @@
 BDD — Behavior Driven Development (Desenvolvimento Guiado por Comportamento).
 ```
 ```bash
-Usuário deve ser capaz de pesquisar um produto de uma marca específica.
+Usuário deve ser capaz de acessar aos produtos mais pesquisados.
 ```
 
 - **DADO QUE** ENTRO EM SUPERMERCADO
