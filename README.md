@@ -15,5 +15,5 @@ Assim que o projeto foi dado ficamos muito felizes, estavamos ansiosos para colo
 # SQUAD
 [@Ryan](https://www.linkedin.com/in/ryan-oliveira-169a371a4/).
 [@Weslei](https://www.instagram.com/institutojogajunto/).
-[@Menina](https://www.instagram.com/institutojogajunto/).
+[@Carol](https://www.instagram.com/dropletkaarol/).
 
