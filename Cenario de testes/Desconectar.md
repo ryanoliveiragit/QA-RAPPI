@@ -25,7 +25,7 @@ BOTÃO PARA LOGIN ATRAVÉS DE OUTROS MÉTODOS
 ![App Screenshot](https://media.discordapp.net/attachments/993982266273452053/996162467682070628/unknown.png?width=853&height=480)
 
 ## Teste na prática.
-[Cenário de testes: comentário]([https://www.youtube.com/watch?v=puPxuTsSh4s](https://www.youtube.com/watch?v=9loqMk9tM5M))
+[Cenário de testes: desconectar]([https://www.youtube.com/watch?v=puPxuTsSh4s](https://www.youtube.com/watch?v=9loqMk9tM5M))
 ```bash
 Ao clicar no link acima, você será redirecionado ao vídeo de teste hospedado na plataforma do youtube.
 ```
