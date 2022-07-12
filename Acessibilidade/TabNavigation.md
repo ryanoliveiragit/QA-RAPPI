@@ -1,2 +1,2 @@
 
-outile n detectado
+outiline focus n detectado
