@@ -20,7 +20,7 @@ tornando-o inutilizável para usuários que dependem de leitores de tela.
 # Zoom
 ### [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
 Desativar o zoom é problemático para usuários com baixa visão que dependem da ampliação da tela para ver corretamente o conteúdo de uma página da web
-
+```bash
 width=device-width
 Isso significa que estamos dizendo ao navegador “meu site se adapta à largura do seu dispositivo”.
 
@@ -50,7 +50,7 @@ Minimum-scale defines the minimum zoom. This works the same as above, but it def
 user-scalable
 Escalável pelo usuário atribuído a 1.0 significa que o site permite que o usuário aumente ou diminua o zoom.
 Mas se você atribuí-lo a user-scalable=no, significa que o site não está permitindo que o usuário aumente ou diminua o zoom.
-
+```
 ## Screenshot
 ![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/996461449947914240/unknown.png)
 # UL LI
