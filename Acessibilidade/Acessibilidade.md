@@ -24,6 +24,7 @@ tornando-o inutilizável para usuários que dependem de leitores de tela.
 # Zoom Mobile
 ### [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
 Desativar o zoom é problemático para usuários com baixa visão que dependem da ampliação da tela para ver corretamente o conteúdo de uma página da web
+exemplo marcelo()
 ```bash
 width=device-width
 Isso significa que estamos dizendo ao navegador “meu site se adapta à largura do seu dispositivo”.
