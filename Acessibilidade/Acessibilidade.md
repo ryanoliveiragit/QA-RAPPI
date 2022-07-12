@@ -1,5 +1,5 @@
 # Acessibilidade - RAPPI
-![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/996466922986164354/unknown.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/996468170946785340/unknown.png)
 #### Essas verificações destacam oportunidades para melhorar a acessibilidade do seu aplicativo da web. Apenas um subconjunto de problemas de acessibilidade pode ser detectado automaticamente, portanto, o teste manual também é incentivado.
 -----------------------------------------------------------------------------------------------------------------------
 # Nome acessivel
