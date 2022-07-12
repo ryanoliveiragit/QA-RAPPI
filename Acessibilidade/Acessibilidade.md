@@ -6,7 +6,8 @@ Quando um elemento não tem um nome acessível, os leitores de tela o anunciam c
 # Nome acessivel
 ### os elementos button, link e menuitem não possuem nomes acessíveis
 ```bash
-Quando um elemento não tem um nome acessível, os leitores de tela o anunciam com um nome genérico, tornando-o inutilizável para usuários que dependem de leitores de tela.
+Quando um elemento não tem um nome acessível, os leitores de tela o anunciam com um nome genérico,
+tornando-o inutilizável para usuários que dependem de leitores de tela.
 ```
 
 - Role = Função.
