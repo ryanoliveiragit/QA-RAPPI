@@ -42,3 +42,5 @@ Isso é útil quando a escala máxima é grande e você deseja definir a escala 
 ![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/996461449947914240/unknown.png)
 # UL LI
 Os leitores de tela têm uma maneira específica de anunciar listas. Garantir a estrutura de lista adequada ajuda na saída do leitor de tela
+### Maneira correta
+![App Screenshot](https://cdn.discordapp.com/attachments/993982266273452053/996465896962936913/unknown.png)
